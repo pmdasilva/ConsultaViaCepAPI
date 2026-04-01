@@ -29,3 +29,6 @@ Aplicação web para consultar endereços a partir de CEPs usando a API ViaCep.
 ## Uso
 
 Digite um CEP no formulário e clique em "Consultar" para ver os dados do endereço.
+
+<img width="928" height="557" alt="image" src="https://github.com/user-attachments/assets/d4f46fb3-28f2-4cab-a607-07172192a62f" />
+
